@@ -1,4 +1,4 @@
-# Next_number_generator
+
 # 🔢 Next Number Generator - Java Spring Boot Backend
 
 A backend service to generate custom formatted codes based on dynamic configuration, using Java Spring Boot and PostgreSQL.
